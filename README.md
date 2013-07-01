@@ -10,6 +10,6 @@
 <pre>
 git clone https://github.com/eiphel/no-greater-roles.git
 </pre>
-Puis activer le plugin dans le backoffice de Wordpress.
+Puis activer le plugin dans le back office de Wordpress.
 </li>
 </ul>
